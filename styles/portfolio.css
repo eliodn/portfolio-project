@@ -114,6 +114,10 @@ p {
   max-height: 40px;
 }
 
+.img-fluid {
+  border-radius: 10px;
+  max-width: 55%;
+}
 nav {
   padding: 20px 0;
 }
