@@ -116,7 +116,9 @@ p {
 
 .img-fluid {
   border-radius: 10px;
-  max-width: 55%;
+  max-width: 65%;
+  display: block;
+  margin-left: auto;
 }
 nav {
   padding: 20px 0;
